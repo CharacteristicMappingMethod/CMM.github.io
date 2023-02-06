@@ -1,17 +1,17 @@
 title: Characteristic Mapping Method
 position: 
-affiliation: |
+affiliation: 
 email: philipp.krah@univ-amu.fr
 description: 
 keywords: Computational Physics, Numerical Analysis
 google_scholar: 
 github_link: 
-avatar: ./assets/img/arton1807.jpeg
-favicon: ./assets/img/arton1807.png
-favicon_dark: ./assets/img/arton1807.png
+avatar: ./assets/img/arton1807.jpg
+favicon: ./assets/img/arton1807.jpg
+favicon_dark: ./assets/img/arton1807.jpg
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
-baseurl: "/CMM.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/characteristicmappingmethod.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: philipp137
 

@@ -10,11 +10,11 @@ layout: homepage
 
 ## Publications
 
-- **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
+- ** A Characteristic Mapping Method for the three-dimensional incompressible Euler equations**
   <br>
-  Julian Koellermeier, Philipp Krah, Jonas Kusch
+   Xi-Yuan Yin, Kai Schneider, Jean-Christophe Nave
   <br>
-  ArXiv:2302.01391v1
+  Journal of Computational Physics, 2023
   <br>
-  [[PDF](https://arxiv.org/abs/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
+  [[PDF](https://arxiv.org/pdf/2107.03504.pdf)]
 
