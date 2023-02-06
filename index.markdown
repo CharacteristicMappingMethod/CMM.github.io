@@ -18,7 +18,7 @@ The project consists of two parts. Part one is focused on the development of ACM
 
 - **Investigation of mixing and particle transport in 2D incompressible Euler flows using the characteristic mapping method**
 <br>
-Julius Bergmann, Institut de Mathématiques de Marseille, 2022
+Julius Bergmann, Master Thesis, Institut de Mathématiques de Marseille, 2022
 <br>
 [[PDF](https://hal.science/tel-03812702v1/document)]
 
