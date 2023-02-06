@@ -10,7 +10,7 @@ layout: homepage
 
 ## Publications
 
-- ** A Characteristic Mapping Method for the three-dimensional incompressible Euler equations**
+- **A Characteristic Mapping Method for the three-dimensional incompressible Euler equations**
   <br>
    Xi-Yuan Yin, Kai Schneider, Jean-Christophe Nave
   <br>
