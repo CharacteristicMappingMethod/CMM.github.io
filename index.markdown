@@ -10,7 +10,29 @@ The project consists of two parts. Part one is focused on the development of ACM
 
 - **[Feb. 2023]** New web page online!
 
+## Media
+
+<iframe src="https://amubox.univ-amu.fr/s/rKrJxiyWK8wmHbr"></iframe>
+
+## Theses
+
+- **Investigation of mixing and particle transport in 2D incompressible Euler flows using the characteristic mapping method**
+<br>
+Julius Bergmann,
+<br>
+Institut de Mathématiques de Marseille, 2022
+<br>
+[[PDF](https://hal.science/tel-03812702v1/document)]
+
 ## Publications
+
+- **A characteristic mapping method for incompressible hydrodynamics on a rotating sphere**
+  <br>
+   Seth Taylor, Jean-Christophe Nave
+  <br>
+   	arXiv:2302.01205
+  <br>
+  [[PDF](https://arxiv.org/pdf/2302.01205.pdf)]
 
 - **A Characteristic Mapping Method for the three-dimensional incompressible Euler equations**
   <br>
