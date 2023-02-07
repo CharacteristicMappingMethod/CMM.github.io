@@ -11,7 +11,7 @@ Even though computational resources grow rapidly, the extremely fine scales in f
 
 ## Media
 
-- To be added
+{% posts AMU-cloud.html id=rKrJxiyWK8wmHbr %}
 
 ## Master and PhD thesis:
 
