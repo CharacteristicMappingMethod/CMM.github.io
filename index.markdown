@@ -7,16 +7,20 @@ Even though computational resources grow rapidly, the extremely fine scales in f
 
 ## Consortium:
 
-I2M, UMR 7373, Aix-Marseille Universit\'e
+I2M, UMR 7373, Aix-Marseille Université
+<br>
 Kai Schneider (PI and coordinator)
 
-LMFA, UMR 5509, Ecole Centrale de Lyon, Universit ́e de Lyon
+LMFA, UMR 5509, Ecole Centrale de Lyon, Université de Lyon
+<br>
 Wouter Bos (coordinator)
 
 CRM, UMI 3457, Montreal
+<br>
 Olivier Lafitte (coordinator)
 
 McGill University, Montreal
+<br>
 Jean-Christophe Nave (coordinator)
 
 ## Master and PhD thesis:
