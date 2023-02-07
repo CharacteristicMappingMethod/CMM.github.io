@@ -7,7 +7,7 @@ Even though computational resources grow rapidly, the extremely fine scales in f
 
 ## Media
 
-{% posts AMU-cloud.html id=rKrJxiyWK8wmHbr %}
+[[Video](http://lmfa.ec-lyon.fr/IMG/avi/2._video_-_vortex_merge_simulation-1.avi?2467/da0f88b056c958694dc74ef5dd0eb84d4a474717)]
 
 ## Master and PhD thesis:
 
