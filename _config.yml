@@ -1,17 +1,10 @@
-title: Adaptive Characteristic Mapping Method for the Euler Equations (CM2E) 
-position: Project ANR-20-CE46-0010 
-affiliation: I2M, UMR 7373, Aix-Marseille Universit\'e
-Kai Schneider (PI and coordinator)
-LMFA, UMR 5509, Ecole Centrale de Lyon, Universit ́e de Lyon
-Wouter Bos (coordinator)
-CRM, UMI 3457, Montreal
-Olivier Lafitte (coordinator)
-McGill University, Montreal
-Jean-Christophe Nave (coordinator)  
-email: 
-description: 
+title: Adaptive Characteristic Mapping Method for the Euler Equations (CM2E)
+position: Project ANR-20-CE46-0010
+affiliation:
+email:
+description:
 keywords: Computational Physics, Numerical Analysis
-google_scholar: 
+google_scholar:
 github_link: https://github.com/CharacteristicMappingMethod
 avatar: ./assets/img/arton1807.jpg
 favicon: ./assets/img/arton1807.jpg
@@ -27,7 +20,7 @@ github_username: philipp137
 plugins:
   - jekyll-feed
 
-defaults: 
+defaults:
   -
     scope:
       path: ""

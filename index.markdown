@@ -5,9 +5,24 @@ layout: homepage
 ## About the adaptive-CMM project
 Even though computational resources grow rapidly, the extremely fine scales in fluid and plasma turbulence remain beyond reach using existing numerical methods. A combination of computational power and ingenious physical insights is usually needed to go beyond the brute force limit. We propose here to develop a novel numerical method, a fully Adaptive Characteristic Mapping Method (ACMM) for evolving the flow map, which yields exponential resolution in linear time. First results for the 2D incompressible Euler equations show the extremely high resolution capabilities of the scheme. The project consists of 2 parts. Part one is focused on the development of ACMM for 2D systems, including its adaptive version using multiresolution techniques and subsequently its application to 2D Euler flows, passive scalar mixing and magnetic reconnection problems. In the second part, we will extend the method to 3D and investigate the formation of singularities and turbulent dissipation.
 
+## Consortium:
+
+I2M, UMR 7373, Aix-Marseille Universit\'e
+Kai Schneider (PI and coordinator)
+
+LMFA, UMR 5509, Ecole Centrale de Lyon, Universit ́e de Lyon
+Wouter Bos (coordinator)
+
+CRM, UMI 3457, Montreal
+Olivier Lafitte (coordinator)
+
+McGill University, Montreal
+Jean-Christophe Nave (coordinator) 
+
 ## Media
 
-[[Video](http://lmfa.ec-lyon.fr/IMG/avi/2._video_-_vortex_merge_simulation-1.avi?2467/da0f88b056c958694dc74ef5dd0eb84d4a474717)]
+{% include AMU-cloud.html id=rKrJxiyWK8wmHbr %}
+<input type="hidden" name="previewURL" value="https://amubox.univ-amu.fr/s/rKrJxiyWK8wmHbr/download/01_vortex_merge_simulation.mp4" id="previewURL">
 
 ## Master and PhD thesis:
 
