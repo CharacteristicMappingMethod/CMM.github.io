@@ -19,11 +19,6 @@ Olivier Lafitte (coordinator)
 McGill University, Montreal
 Jean-Christophe Nave (coordinator)
 
-## Media
-
-{% include AMU-cloud.html id=rKrJxiyWK8wmHbr %}
-<input type="hidden" name="previewURL" value="https://amubox.univ-amu.fr/s/rKrJxiyWK8wmHbr/download/01_vortex_merge_simulation.mp4" id="previewURL">
-
 ## Master and PhD thesis:
 
 - B. Yadav, *Characteristic Mapping Method for Incompressible Euler Equations*. Master thesis. McGill University, 2015.
