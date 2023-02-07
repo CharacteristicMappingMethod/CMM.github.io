@@ -17,7 +17,7 @@ CRM, UMI 3457, Montreal
 Olivier Lafitte (coordinator)
 
 McGill University, Montreal
-Jean-Christophe Nave (coordinator) 
+Jean-Christophe Nave (coordinator)
 
 ## Media
 
@@ -107,6 +107,8 @@ J. Fluid Mech., 905, A14, 2020. arXiv:2005.00525
 - Xi-Yuan Yin, *Characteristic Mapping method and applications to the singularity problem in the 3D Euler equations*, GDR turbulence, Lille 2-4/11/2022.
 
 ## Team:
+
+Former team members are marked with (*)
 
 - Thibault Oujia, PhD student, I2M Marseille
 - Julius Bergmann (*), Master student, I2M Marseille (TU Berlin)
