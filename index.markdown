@@ -29,7 +29,7 @@ Jean-Christophe Nave (coordinator)
 [[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/tree/blob/main/assets/badal_yadav_master.pdf)]
 
 - N. Saber, *Two-dimensional Characteristic Mapping Method with inertial particles on GPU using CUDA*, Master thesis, I2M-AMU, July 2021.
-[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/tree/blob/main/assets/CMM_Nicolas_SABER.pdf)]
+[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/blob/main/assets/thesis/CMM_Nicolas_SABER.pdf)]
 
 - J. Bergmann, *Investigation of mixing and particle transport in 2D incompressible Euler flows using the characteristic mapping method*, Master thesis, I2M-AMU, April 2022.
 [[pdf](https://hal.science/tel-03812702/document)]
