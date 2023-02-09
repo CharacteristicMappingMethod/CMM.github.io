@@ -107,6 +107,10 @@ J. Fluid Mech., 905, A14, 2020. arXiv:2005.00525
 
 - Xi-Yuan Yin, *Characteristic Mapping method and applications to the singularity problem in the 3D Euler equations*, GDR turbulence, Lille 2-4/11/2022.
 
+## Movies
+
++ [Vortex merge simulation](http://lmfa.ec-lyon.fr/IMG/avi/2._video_-_vortex_merge_simulation-1.avi?2467/da0f88b056c958694dc74ef5dd0eb84d4a474717)
+
 ## Team:
 
 Former team members are marked with (*)
