@@ -83,7 +83,7 @@ T. Oujia, K. Matsuda and K. Schneider
 <br>
 J. Fluid Mech., 905, A14, 2020. arXiv:2005.00525
 <br>
-[[PDF](https://arxiv.org/pdf/2005.00525.pdf)]
+[[PDF](http://www.i2m.univ-amu.fr/perso/kai.schneider/PDF-FILES/oms_jfm2020_final.pdf)]
 
 ## List of conference proceedings and presentations
 
