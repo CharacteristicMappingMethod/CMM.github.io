@@ -26,7 +26,7 @@ Jean-Christophe Nave (coordinator)
 ## Master and PhD thesis:
 
 - B. Yadav, *Characteristic Mapping Method for Incompressible Euler Equations*. Master thesis. McGill University, 2015.
-[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/tree/blob/main/assets/badal_yadav_master.pdf)]
+[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/blob/main/assets/thesis/badal_yadav_master.pdf)]
 
 - N. Saber, *Two-dimensional Characteristic Mapping Method with inertial particles on GPU using CUDA*, Master thesis, I2M-AMU, July 2021.
 [[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/blob/main/assets/thesis/CMM_Nicolas_SABER.pdf)]
