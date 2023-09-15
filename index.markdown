@@ -39,6 +39,8 @@ Jean-Christophe Nave (coordinator)
 
 - M. Bolduc, *A Fourier spectral method with high resolution for advection problems*, Master thesis, McGill University, April 2023
 
+- M. A. Sahakian, *A Characteristic mapping method for two-dimensional magnetohydrodynamic equations*, Master thesis, I2M-AMU, September 2023
+
 ## Publications
 
 - **Singularity formation of vortex sheets in 2D Euler equations using the characteristic mapping method**
@@ -122,7 +124,7 @@ Former team members are marked with (*)
 - Philipp Krah, Postdoc, I2M Marseille
 - Benjamin Kadoch, Faculty, IUSTI Marseille
 - Kai Schneider, Faculty, I2M Marseille (PI and coordinator Marseille)
-- Marc Antonio Sahakian, Master Student, I2M Marseille (PI and coordinator Marseille)
+- Marc Antonio Sahakian, Master Student, I2M Marseille
  - Xi-Yuan (Bruce) Yin, Postdoc, LMFA Lyon
 - Tong Wu, PhD student, LMFA Lyon
 - Wouter Bos, Faculty, LMFA Lyon (coordinator Lyon)
