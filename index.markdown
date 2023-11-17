@@ -41,6 +41,14 @@ Jean-Christophe Nave (coordinator)
 
 ## Publications
 
+- **A Characteristic Mapping Method for Vlasov-Poisson with Extreme Resolution Properties**
+  <br>
+  P. Krah, X.-Y. Yin, J. Bergmann, J.-C. Nave, K. Schneider
+  <br>
+  Preprint  arXiv:2311.09379
+  <br>
+  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)
+
 - **Singularity formation of vortex sheets in 2D Euler equations using the characteristic mapping method**
 <br>
 J. Bergmann, T. Oujia, X.-Y. Yin, J.-C. Nave and K. Schneider
