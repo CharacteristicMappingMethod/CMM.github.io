@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About the adaptive-CMM project
-Even though computational resources grow rapidly, the extremely fine scales in fluid and plasma turbulence remain beyond reach using existing numerical methods. A combination of computational power and ingenious physical insights is usually needed to go beyond the brute force limit. We propose here to develop a novel numerical method, a fully Adaptive Characteristic Mapping Method (ACMM) for evolving the flow map, which yields exponential resolution in linear time. First results for the 2D incompressible Euler equations show the extremely high resolution capabilities of the scheme. The project consists of 2 parts. Part one is focused on the development of ACMM for 2D systems, including its adaptive version using multiresolution techniques and subsequently its application to 2D Euler flows, passive scalar mixing and magnetic reconnection problems. In the second part, we will extend the method to 3D and investigate the formation of singularities and turbulent dissipation.
+Even though computational resources grow rapidly, the extremely fine scales in fluid and plasma turbulence remain beyond reach using existing numerical methods. A combination of computational power and ingenious physical insights is usually needed to go beyond the brute force limit. We propose here to develop a novel numerical method, a fully Adaptive Characteristic Mapping Method (ACMM) for evolving the flow map, which yields exponential resolution in linear time. The first results for the 2D incompressible Euler equations show the extremely high-resolution capabilities of the scheme. The project consists of 2 parts. Part one is focused on the development of ACMM for 2D systems, including its adaptive version using multiresolution techniques and subsequently, its application to 2D Euler flows, passive scalar mixing and magnetic reconnection problems. In the second part, we will extend the method to 3D and investigate the formation of singularities and turbulent dissipation.
 
 ## Consortium:
 
@@ -26,10 +26,10 @@ Jean-Christophe Nave (coordinator)
 ## Master and PhD thesis:
 
 - B. Yadav, *Characteristic Mapping Method for Incompressible Euler Equations*. Master thesis. McGill University, 2015.
-[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/tree/main/assets/badal_yadav_master.pdf)]
+[[pdf](https://raw.githubusercontent.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/main/assets/thesis/badal_yadav_master.pdf)]
 
 - N. Saber, *Two-dimensional Characteristic Mapping Method with inertial particles on GPU using CUDA*, Master thesis, I2M-AMU, July 2021.
-[[pdf](https://github.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/tree/main/assets/CMM_Nicolas_SABER.pdf)]
+[[pdf](https://raw.githubusercontent.com/CharacteristicMappingMethod/characteristicmappingmethod.github.io/main/assets/thesis/CMM_Nicolas_SABER.pdf)]
 
 - J. Bergmann, *Investigation of mixing and particle transport in 2D incompressible Euler flows using the characteristic mapping method*, Master thesis, I2M-AMU, April 2022.
 [[pdf](https://hal.science/tel-03812702/document)]
@@ -38,6 +38,8 @@ Jean-Christophe Nave (coordinator)
 [[pdf](https://escholarship.mcgill.ca/concern/theses/4j03d476w)]
 
 - M. Bolduc, *A Fourier spectral method with high resolution for advection problems*, Master thesis, McGill University, April 2023
+
+- M. A. Sahakian, *A Characteristic mapping method for two-dimensional magnetohydrodynamic equations*, Master thesis, I2M-AMU, September 2023
 
 ## Publications
 
@@ -130,8 +132,8 @@ Former team members are marked with (*)
 - Philipp Krah, Postdoc, I2M Marseille
 - Benjamin Kadoch, Faculty, IUSTI Marseille
 - Kai Schneider, Faculty, I2M Marseille (PI and coordinator Marseille)
-
-- Xi-Yuan (Bruce) Yin, Postdoc, LMFA Lyon
+- Marc Antonio Sahakian, Master Student, I2M Marseille
+ - Xi-Yuan (Bruce) Yin, Postdoc, LMFA Lyon
 - Tong Wu, PhD student, LMFA Lyon
 - Wouter Bos, Faculty, LMFA Lyon (coordinator Lyon)
 
