@@ -47,7 +47,7 @@ Jean-Christophe Nave (coordinator)
 <br>
 P. Krah, X.-Y. Yin, J. Bergmann, J.-C. Nave, K. Schneider
 <br>
-Communications in Computational Physics 35 (4), 905--937, 2024.  	arXiv:2311.09379               
+Communications in Computational Physics 35 (4), 905--937, 2024. arXiv:2311.09379
 <br>
 [[PDF](https://arxiv.org/pdf/2311.09379.pdf)]
 
