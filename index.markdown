@@ -43,11 +43,27 @@ Jean-Christophe Nave (coordinator)
 
 ## Publications
 
+- **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
+<br>
+X.-Y. Yin, P. Krah, J.-C. Nave, K. Schneider
+<br>
+arXiv:2411.13772 (2024)
+<br>
+[[PDF](https://arxiv.org/pdf/2411.13772)]
+
+- **Influence of the vorticity-scalar correlation on mixing**
+<br>
+X.-Y. Yin, W. Agoua, T. Wu, W.J.T. Bos
+<br>
+Physical Review Fluids 9.10 (2024)
+<br>
+[[PDF](https://doi.org/10.1103/PhysRevFluids.9.104502)]
+
 - **A Characteristic Mapping Method for Vlasov-Poisson with Extreme Resolution Properties**
 <br>
 P. Krah, X.-Y. Yin, J. Bergmann, J.-C. Nave, K. Schneider
 <br>
-Preprint  arXiv:2311.09379
+Commun. Comput. Phys., 35, pp. 905-937 (2024)
 <br>
 [[PDF](https://arxiv.org/pdf/2311.09379.pdf)]
 
@@ -55,13 +71,15 @@ Preprint  arXiv:2311.09379
 <br>
 J. Bergmann, T. Oujia, X.-Y. Yin, J.-C. Nave and K. Schneider
 <br>
-Preprint, 01/2023
+arXiv preprint arXiv:2404.02008 (2024)
+<br>
+[[PDF](https://arxiv.org/pdf/2404.02008)]
 
 - **A Characteristic Mapping Method for the three-dimensional incompressible Euler equations**
 <br>
  X.-Y. Yin, K. Schneider and J.-C. Nave.
 <br>
-J. Comput. Phys., 477, 111876, 2023. arXiv:2107.03504
+J. Comput. Phys., 477, 111876, 2023
 <br>
 [[PDF](https://arxiv.org/pdf/2107.03504.pdf)]
 
